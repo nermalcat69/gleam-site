@@ -88,7 +88,7 @@ services:
     type: gleam@1.5
 ```
 
-This will create a project called `recipe-gleam` with a Zerops Static service called `app`.
+This will create a project called `recipe-gleam` with a Zerops Gleam service called `app`.
 
 ## Add Zerops.yml
 
