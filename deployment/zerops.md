@@ -86,7 +86,6 @@ project:
 services:
   - hostname: app
     type: gleam@1.5
-    enableSubdomainAccess: true
 ```
 
 This will create a project called `recipe-gleam` with a Zerops Static service called `app`.
